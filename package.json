@@ -1,0 +1,27 @@
+{
+  "name": "nativescript-barcode-scanner",
+  "main": "barcode-scanner.js",
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.1",
+      "android" : "1.5.0"
+    }
+  },
+  "version": "0.2.2",
+  "description": "A ios UIToolBar plugin for nativescript.",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:rajivnarayana/nativescript-toolbar.git"
+  },
+  "keywords": [
+    "Nativescript",
+    "toolbar",
+    "UIToolBar",
+    "tool-bar"
+  ],
+  "author": "Rajiv Narayana <rajivnarayana@gmail.com> (https://github.com/rajivnarayana)",
+  "license": "MIT",
+  "devDependencies": {
+    "tns-core-modules": "^1.7.0"
+  }
+}
